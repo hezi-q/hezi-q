@@ -1,30 +1,8 @@
-# Hi there, I'm Muhammad Hamza Qureshi 👋
+## Software Engineer & Data Engineer
 
-**Software Engineer | Fiverr**
+- **Languages/Frameworks:** Python, TypeScript, Django, Scrapy, Redis, GraphQL
+- **Cloud & DevOps:** AWS
+- **Projects:** [Spotify-Music-Streamer](https://github.com/hezi-q/Spotify-Music-Streamer), [studybud](https://github.com/hezi-q/studybud)
+- **Profiles:** [LinkedIn](https://www.linkedin.com/in/soothscier/) | [Fiverr](https://fiverr.com/amzshow)
 
-🌟 Developing solutions for Computing Problems
-
----
-
-## 👨‍💻 About Me
-
-Passionate software engineer dedicated to solving complex computing problems and delivering value-driven solutions. Always eager to learn, build, and collaborate.
-
-- 💼 Currently working at **Fiverr**
-- 📧 Email: hezi.qureshi@gmail.com
-- 🌐 [Fiverr Profile](http://fiverr.com/amzshow)
-
----
-
-## 📫 Connect with Me
-
-- [Fiverr](http://fiverr.com/amzshow)
-- **Email:** hezi.qureshi@gmail.com
-
----
-
-> “Developing solutions for Computing Problems”
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hezi-q&show_icons=true&hide_title=true)
+Professional vibe, passionate about building scalable software and data solutions.
