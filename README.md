@@ -4,5 +4,3 @@
 - **Cloud & DevOps:** AWS
 - **Projects:** [Spotify-Music-Streamer](https://github.com/hezi-q/Spotify-Music-Streamer), [studybud](https://github.com/hezi-q/studybud)
 - **Profiles:** [LinkedIn](https://www.linkedin.com/in/soothscier/) | [Fiverr](https://fiverr.com/amzshow)
-
-Professional vibe, passionate about building scalable software and data solutions.
